@@ -11,6 +11,10 @@
             "comment": "Open TrialRoom share handoff"
           },
           {
+            "/": "/share/",
+            "comment": "Open TrialRoom share handoff page"
+          },
+          {
             "/": "/premium",
             "comment": "Open TrialRoom premium screen"
           },
