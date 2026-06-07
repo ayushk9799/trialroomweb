@@ -1,0 +1,37 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5244NF9YV8.com.thousandways.trialroom"
+        ],
+        "components": [
+          {
+            "/": "/share",
+            "comment": "Open TrialRoom share handoff"
+          },
+          {
+            "/": "/premium",
+            "comment": "Open TrialRoom premium screen"
+          },
+          {
+            "/": "/tryon",
+            "comment": "Open TrialRoom try-on screen"
+          },
+          {
+            "/": "/hairstyle",
+            "comment": "Open TrialRoom hairstyle screen"
+          },
+          {
+            "/": "/history",
+            "comment": "Open TrialRoom history screen"
+          },
+          {
+            "/": "/profile",
+            "comment": "Open TrialRoom profile screen"
+          }
+        ]
+      }
+    ]
+  }
+}
